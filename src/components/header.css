@@ -1,0 +1,28 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #b7dff7;
+}
+
+.logo{
+    font-size: 25px;
+    margin: 0 25px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+
+ul li{
+    margin: 0 25px;
+    cursor: pointer;
+}
+
+ul li:hover{
+    color: aliceblue;
+
+}
